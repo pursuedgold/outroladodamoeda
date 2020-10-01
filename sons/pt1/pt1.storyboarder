@@ -1,0 +1,82 @@
+{
+  "version": "2.0.1",
+  "aspectRatio": "1.3333333333333333",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "E8F3U",
+      "url": "board-2-E8F3U.png",
+      "newShot": false,
+      "lastEdited": 1599745847599,
+      "layers": {
+        "reference": {
+          "url": "board-2-E8F3U-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "audio": {
+        "filename": "E8F3U-old_telephone editado.mp3",
+        "duration": 2657.5625
+      },
+      "duration": 3000
+    },
+    {
+      "uid": "6Q0GI",
+      "url": "board-3-6Q0GI.png",
+      "newShot": false,
+      "lastEdited": 1599745847994,
+      "layers": {
+        "reference": {
+          "url": "board-3-6Q0GI-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 3000,
+      "audio": {
+        "filename": "6Q0GI-just-do-it-sound-effect editado.mp3",
+        "duration": 788.1041666666667
+      }
+    },
+    {
+      "uid": "X7FW0",
+      "url": "board-4-X7FW0.png",
+      "newShot": false,
+      "lastEdited": 1599745848274,
+      "layers": {
+        "reference": {
+          "url": "board-4-X7FW0-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 5000
+    },
+    {
+      "uid": "4NSOB",
+      "url": "board-5-4NSOB.png",
+      "newShot": false,
+      "lastEdited": 1599745848574,
+      "layers": {
+        "reference": {
+          "url": "board-5-4NSOB-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 7000,
+      "audio": {
+        "filename": "4NSOB-WhatsApp Audio 2020-09-10 at 10.45.32 (online-audio-converter.com).mp3",
+        "duration": 3575.9791666666665
+      },
+      "duration": 2740
+    }
+  ]
+}

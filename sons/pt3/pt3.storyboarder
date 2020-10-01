@@ -1,0 +1,28 @@
+{
+  "version": "2.0.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "VEP0I",
+      "url": "board-2-VEP0I.png",
+      "newShot": false,
+      "lastEdited": 1599747006023,
+      "layers": {
+        "reference": {
+          "url": "board-2-VEP0I-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "audio": {
+        "filename": "VEP0I-man-lament-sound-effect.mp3",
+        "duration": 6034.270833333333
+      },
+      "duration": 6170
+    }
+  ]
+}
